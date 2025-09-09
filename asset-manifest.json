@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/aem-analytics-dashboard/static/css/main.455c85e1.css",
+    "main.js": "/aem-analytics-dashboard/static/js/main.1d579f56.js",
+    "index.html": "/aem-analytics-dashboard/index.html",
+    "main.455c85e1.css.map": "/aem-analytics-dashboard/static/css/main.455c85e1.css.map",
+    "main.1d579f56.js.map": "/aem-analytics-dashboard/static/js/main.1d579f56.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.455c85e1.css",
+    "static/js/main.1d579f56.js"
+  ]
+}
