@@ -1,6 +1,7 @@
 {
   "name": "aem-analytics-dashboard",
   "version": "0.1.0",
+  "homepage": "https://reganamburose.github.io/aem-analytics-dashboard",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.14.0",
