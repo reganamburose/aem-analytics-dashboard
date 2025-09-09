@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+    letter-spacing: .5px;
+}
+
+.app-container {
+  max-width: 1400px;
+  margin: 0 auto;
+  padding: 0 16px;
+}
+
+.app-header {
+  padding: 24px;
+  text-align: center;
+  background-color: #1976d2;
+  color: #fff;
+}
+
+/* small responsive tweak */
+@media (max-width: 600px) {
+  .app-header {
+    padding: 16px;
+  }
+}
